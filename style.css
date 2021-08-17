@@ -145,4 +145,7 @@ section {
     justify-content: center;
     align-items: center;
   }
+   #navbar ul li a {
+    font-size: 2em;
+  }
 }
