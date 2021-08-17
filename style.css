@@ -123,7 +123,7 @@ section {
   font-weight: 700;
 }
 /* Responsive */
-@media (max-width: 991px) {
+@media (max-width: 942px) {
   #navbar {
     position: fixed;
     bottom: -100%;
