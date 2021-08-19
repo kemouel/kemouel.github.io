@@ -110,6 +110,7 @@ input[type="checkbox"] {
 }
 .coaching p {
   margin-left: 60px;
+  margin-right:20px;
   margin-top: 20px;
 }
 @media (max-width: 1000px) {
