@@ -148,6 +148,6 @@ input[type="checkbox"] {
 @media (max-width: 768px) {
   .content div {
     font-size: 22px;
-    margin-top: 200px;
+    margin-top: 50px;
   }
 }
