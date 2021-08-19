@@ -89,7 +89,7 @@ input[type="checkbox"] {
 }
 .content {
   position: absolute;
-  top: 20%;
+  top: 10%;
   left: 7%;
   color: red;
 }
