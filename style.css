@@ -97,6 +97,21 @@ input[type="checkbox"] {
   font-size: 40px;
   font-weight: 700;
 }
+/* Page coaching */
+.coaching h1 {
+  position: absolute;
+  top: 20%;
+  left: 7%;
+  color: cornflowerblue;
+}
+.coaching h3 {
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.coaching p {
+  margin-left: 60px;
+  margin-top: 20px;
+}
 @media (max-width: 1000px) {
   nav {
     padding: 0 40px 0px 50px;
